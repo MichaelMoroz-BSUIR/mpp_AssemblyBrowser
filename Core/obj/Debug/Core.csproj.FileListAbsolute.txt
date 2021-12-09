@@ -1,0 +1,6 @@
+C:\Users\misha\RiderProjects\mpp_AssemblyBrowser\Core\bin\Debug\Core.dll
+C:\Users\misha\RiderProjects\mpp_AssemblyBrowser\Core\bin\Debug\Core.pdb
+C:\Users\misha\RiderProjects\mpp_AssemblyBrowser\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\misha\RiderProjects\mpp_AssemblyBrowser\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\misha\RiderProjects\mpp_AssemblyBrowser\Core\obj\Debug\Core.dll
+C:\Users\misha\RiderProjects\mpp_AssemblyBrowser\Core\obj\Debug\Core.pdb
